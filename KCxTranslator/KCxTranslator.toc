@@ -1,0 +1,19 @@
+## Interface: 20504
+## Title: KCx Translator
+## Notes: Personal Spanish-English WoW translator
+## Author: KCx
+## Version: 0.6.0-beta
+## SavedVariables: KCxTranslatorDB
+
+KCxTranslator.lua
+
+dictionaries\core.lua
+dictionaries\everyday.lua
+dictionaries\raids.lua
+dictionaries\classes.lua
+dictionaries\pvp.lua
+dictionaries\professions.lua
+dictionaries\social.lua
+dictionaries\slang.lua
+KCxTranslator_General.lua
+dictionaries\general.lua
